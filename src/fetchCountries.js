@@ -11,4 +11,4 @@ function fetchCountries(name) {
     return resp.json();
   });
 }
-// export default { fetchCountries };
+export default fetchCountries;
